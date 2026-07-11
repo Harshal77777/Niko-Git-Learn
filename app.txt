@@ -1,1 +1,2 @@
 Application initialized
+Updated application header styling
