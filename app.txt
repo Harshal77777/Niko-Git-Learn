@@ -1,3 +1,4 @@
 Application initialized
 Updated application header styling
 Added footer section to application
+Add search functionality
